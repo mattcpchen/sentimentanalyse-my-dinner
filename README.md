@@ -1,8 +1,8 @@
 ## Sentiment-Analyse-My-Dinner
-Use Tensorflow to analyze the reviews and recommend a good restaurant around you for your dinner
-
+Use Zomato's restaurant API and Google's TensorFlow to build a simple restaurant app. Tensorflow is used to analyze users' reviews which will be combined with the Zomato's exisitng user rating. The goal of this project is to utilize machine learninig to build a more trustworthy recommendation system.
 
 https://sentiment-analyse-my-dinner.herokuapp.com/
+
 ## Getting Started
 <ul>
     <li><b>npm run dev</b>: run development version</li>
