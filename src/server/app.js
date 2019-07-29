@@ -2,7 +2,6 @@ const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
 const routerService = require('./services/routerService');
-const restService = require('./services/restService');
 
 module.exports = function() {
 
@@ -10,7 +9,7 @@ module.exports = function() {
   app.use(bodyParser.urlencoded({ extended: false }));
   app.use(bodyParser.json('application/json'));
 
-  app.set('port', process.env.PORT || 8888);
+  app.set('port', process.env.PORT || 8080);
 
 
   // webpack with HMR
