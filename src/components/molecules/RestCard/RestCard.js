@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import styled from 'styled-components'
+import styled from 'styled-components';
 import FavorTag from '../FavorTag';
 import { RestCardImage, RestCardDescs, RestCardReview } from '../../molecules/';
 import { ThemeColors } from '../../../helpers/ThemeSettings';

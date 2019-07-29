@@ -1,2 +1,2 @@
-import RatingFlag from './RatingFlag'
-export default RatingFlag
+import RatingFlag from './RatingFlag';
+export default RatingFlag;

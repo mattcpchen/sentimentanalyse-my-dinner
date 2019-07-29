@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import {Modal} from '../../atoms/';
 import ReviewCards from '../../organisms/ReviewCards';
-import { closeReviewModal } from '../../../actions/modalAction'
+import { closeReviewModal } from '../../../actions/modalAction';
 import {connect} from "react-redux";
 
 

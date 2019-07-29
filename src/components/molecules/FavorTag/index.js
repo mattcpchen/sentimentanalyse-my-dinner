@@ -1,2 +1,2 @@
-import FavorTag from './FavorTag'
-export default FavorTag
+import FavorTag from './FavorTag';
+export default FavorTag;

@@ -1,7 +1,7 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import styled from 'styled-components'
-import SearchHeader from './SearchHeader'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import styled from 'styled-components';
+import SearchHeader from './SearchHeader';
 
 const Container = styled.div`
   background-color: #eee;

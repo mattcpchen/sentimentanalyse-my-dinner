@@ -1,6 +1,6 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import EmojiRating from './EmojiRating'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import EmojiRating from './EmojiRating';
 
 storiesOf('atoms/EmojiRating', module)
 .add('All EmojiRatings', () => (

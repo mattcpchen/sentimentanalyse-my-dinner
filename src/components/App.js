@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import styled from 'styled-components'
+import styled from 'styled-components';
 import { HomePage, ReviewModal, LoadModal } from './pages/';
-// import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 
 
 const StyledApp = styled.div`

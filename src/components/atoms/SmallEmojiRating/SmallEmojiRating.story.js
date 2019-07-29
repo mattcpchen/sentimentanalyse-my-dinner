@@ -1,6 +1,6 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import SmallEmojiRating from './SmallEmojiRating'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import SmallEmojiRating from './SmallEmojiRating';
 
 
 storiesOf('atoms/SmallEmojiRating', module)

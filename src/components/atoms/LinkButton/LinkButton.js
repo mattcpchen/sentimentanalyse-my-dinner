@@ -1,7 +1,7 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import styled from 'styled-components'
-import { ThemeColors } from '../../../helpers/ThemeSettings'
+import React from 'react';
+import PropTypes from 'prop-types';
+import styled from 'styled-components';
+import { ThemeColors } from '../../../helpers/ThemeSettings';
 
 const StyledLinkButton = styled.div`
   display: inline-block;

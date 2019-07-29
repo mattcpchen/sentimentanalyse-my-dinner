@@ -14,13 +14,12 @@
     "build-client": "webpack --config webpack.client.config.js --colors",
     "build-server": "webpack --config webpack.server.config.js --colors"
   },
-  "author": "Chienpin Chen",
+  "author": "Matthew CP Chen",
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs": "^1.2.5",
     "babel-polyfill": "^6.26.0",
     "body-parser": "^1.19.0",
-    "bootstrap": "^4.3.1",
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
     "pcln-design-system": "^2.1.0",

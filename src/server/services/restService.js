@@ -1,10 +1,4 @@
 
-const initRestService = async () => {
-  const SentimentAnalyser = require('./tfService');
-  sentimentAnalyser = new SentimentAnalyser();
-  await sentimentAnalyser.init();
-};
-
 const flattenAllReviewRatings = ({reviews}) => {
   const allReviews=[], allReviewsRatings = [];
   reviews.forEach(({review})=>{
@@ -52,6 +46,5 @@ const convertRestData = (allFavors, rest) => {
 
 
 module.exports = {
-  initRestService,
   convertRestData
 };

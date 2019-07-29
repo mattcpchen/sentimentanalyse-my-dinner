@@ -5,10 +5,8 @@ import FaceIcon from './FaceIcon';
 import LinkButton from './LinkButton';
 import Modal from './Modal';
 import RatingFlag from './RatingFlag';
-import RatingCircle from './RatingFlag';
 import EmojiRating from './EmojiRating';
 import ReviewRatingButton from './ReviewRatingButton';
-import SmallEmojiRating from './SmallEmojiRating';
 
 
 export {
@@ -18,9 +16,7 @@ export {
   FaceIcon,
   LinkButton,
   RatingFlag,
-  RatingCircle,
   EmojiRating,
   ReviewRatingButton,
-  Modal,
-  SmallEmojiRating
+  Modal
 }

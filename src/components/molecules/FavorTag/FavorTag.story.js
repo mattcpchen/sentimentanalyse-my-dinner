@@ -1,6 +1,6 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import FavorTag from './FavorTag'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import FavorTag from './FavorTag';
 
 
 storiesOf('molecules/FavorTag', module)

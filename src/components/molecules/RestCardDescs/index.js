@@ -1,2 +1,2 @@
-import RestCardDescs from './RestCardDescs'
-export default RestCardDescs
+import RestCardDescs from './RestCardDescs';
+export default RestCardDescs;

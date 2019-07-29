@@ -1,2 +1,2 @@
-import EmojiRating from './EmojiRating'
-export default EmojiRating
+import EmojiRating from './EmojiRating';
+export default EmojiRating;

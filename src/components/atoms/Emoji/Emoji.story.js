@@ -1,7 +1,7 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import styled from 'styled-components'
-import Emoji from './Emoji'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import styled from 'styled-components';
+import Emoji from './Emoji';
 
 const IconHolder = styled.div`
   display: flex;

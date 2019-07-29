@@ -1,7 +1,7 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import styled from 'styled-components'
-import RestCards from './RestCards'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import styled from 'styled-components';
+import RestCards from './RestCards';
 
 const Container = styled.div`
   background-color: #eee;

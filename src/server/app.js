@@ -27,8 +27,6 @@ module.exports = function() {
     }));
     app.use(webpackHotMiddleware(compiler));
   }
-  // init tf
-  restService.initRestService();
 
   // static routes
   if (process.env.NODE_ENV === 'development') {

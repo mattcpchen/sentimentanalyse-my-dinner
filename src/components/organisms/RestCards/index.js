@@ -1,2 +1,2 @@
-import RestCards from './RestCards'
-export default RestCards
+import RestCards from './RestCards';
+export default RestCards;

@@ -1,2 +1,2 @@
-import ReviewCard from './ReviewCard'
-export default ReviewCard
+import ReviewCard from './ReviewCard';
+export default ReviewCard;

@@ -1,6 +1,6 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import FaceIcon from './FaceIcon'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import FaceIcon from './FaceIcon';
 
 
 storiesOf('atoms/FaceIcon', module)

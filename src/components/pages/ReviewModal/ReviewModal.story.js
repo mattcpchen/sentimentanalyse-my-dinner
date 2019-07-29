@@ -1,6 +1,6 @@
-import React from 'react'
-import { storiesOf } from '@storybook/react'
-import ReviewModal from './ReviewModal'
+import React from 'react';
+import { storiesOf } from '@storybook/react';
+import ReviewModal from './ReviewModal';
 
 const modalClose = () => {
   alert('click to close')
