@@ -9,7 +9,7 @@ Use Zomato's restaurant API and Google's TensorFlow to build a simple restaurant
 ### Sneak peak:
 ![Screenshot_01](/public/doc/readme_01.jpg?raw=true)
 
-## #Getting Started
+### Getting Started
 <ul>
     <li><b>npm run dev</b>: run development version</li>
     <li><b>npm run storybook</b>: only for developing components</li>
